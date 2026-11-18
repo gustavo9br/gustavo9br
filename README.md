@@ -6,6 +6,7 @@
   <a href="https://gustavomartins.dev"><img src="https://img.shields.io/badge/Portfólio-gustavomartins.dev-7dd3fc?style=for-the-badge&labelColor=0b0e17" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/gustavomartins-ia"><img src="https://img.shields.io/badge/LinkedIn-gustavomartins--ia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0e17" alt="LinkedIn"></a>
   <a href="https://wa.me/5522999996333"><img src="https://img.shields.io/badge/WhatsApp-Falar%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b0e17" alt="WhatsApp"></a>
+  <a href="mailto:contato@gustavomartins.dev"><img src="https://img.shields.io/badge/E--mail-contato@gustavomartins.dev-ea4335?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0b0e17" alt="E-mail"></a>
   <a href="https://gustavomartins.dev/curriculo"><img src="https://img.shields.io/badge/Currículo-PDF-a78bfa?style=for-the-badge&labelColor=0b0e17" alt="Currículo"></a>
 </p>
 
